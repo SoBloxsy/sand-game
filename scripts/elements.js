@@ -1658,4 +1658,3 @@ function doDensityGas(x, y, i, chance) {
   gameImagedata32[swapSpot] = gasElem;
   return true;
 }
-© 2021 GitHub, Inc.
