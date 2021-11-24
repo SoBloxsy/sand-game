@@ -1,7 +1,7 @@
 /* Configuration of the menu */
 const ELEMENT_MENU_ELEMENTS_PER_ROW = 4;
 const PEN_SIZES = [2, 4, 8, 16, 32, 64, 128];
-const PEN_SIZE_LABELS = ["1px", "2px", "4px", "8px", "16px", "32px", "64px"];
+const PEN_SIZE_LABELS = ["1px", "2px", "4px", "8px", "16px", "32px", "64px", "Test"];
 const DEFAULT_PEN_IDX = 1;
 
 /* Elements listed in the menu */
