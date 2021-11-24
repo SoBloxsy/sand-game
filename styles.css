@@ -65,19 +65,20 @@ a:hover {
 }
 
 #menuWrapper {
-  border-left: 1px solid grey;
-  border-right: 1px solid grey;
-  border-bottom: 1px solid grey;
-  padding-bottom: 3px;
-  margin-bottom: 15px;
-  background-color: rgb(60, 60, 60);
-  overflow: auto;
-  font-family: "Arial";
-  font-size: 14px;
-  user-select: none;
-  position: relative;
-  color: yellow;
-  width: inherit;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding-bottom: 3px;
+    margin-bottom: 15px;
+    background-color: rgb(60, 60, 60);
+    overflow: auto;
+    font-family: "Arial";
+    font-size: 14px;
+    user-select: none;
+    position: relative;
+    color: white;
+    width: inherit;
+    border-radius: 10px;
 }
 
 #elementTable {
