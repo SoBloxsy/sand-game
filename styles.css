@@ -160,11 +160,18 @@ select {
 }
 
 .optionButton {
-  font-size: inherit;
-  font-family: inherit;
-  user-select: none;
-  border: none;
-  outline: none;
+font-size: inherit;
+    font-family: inherit;
+    user-select: none;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 5px;
+    border: 0;
+    background-color: #575757;
+    color: white;
+    transition-duration: 0.4s;
+
 }
 
 .optionButtonContainer {
